@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Fun with Graphics</string>
+
+    <string name="rock_out_button">Rock out!</string>
+    <string name="smile_button">Smile!</string>
+    <string name="floss_button">Floss!</string>
+    <string name="unicorn_button">Unicorn!</string>
+
+    <string name="rock_guy_image">Rock star with guitar</string>
+    <string name="smiley_image">Smiley face</string>
+    <string name="floss_image">Jeremy doing the floss</string>
+    <string name="unicorn_image">Dabbing unicorn</string>
+
+    <string name="floss_start_button">Do the floss!</string>
+    <string name="floss_stop_button">Please make it stop!</string>
+
+</resources>
+
